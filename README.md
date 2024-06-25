@@ -20,7 +20,7 @@ For token allocations, teams might consider using Splits (https://splits.org/) o
 
 Due to concerns about conflicts of interest or the appearance of such conflicts of interest, Eigen Foundation’s policy prohibits any of its employees or dedicated service providers from individually claiming airdrops.
 
-Accordingly, this repository in no way obligates you, requires, or suggests that Eigen Foundation or any other project listed above must or should get a share of any ecosystem allocations. This is just a public place for the sharing of information about EigenLayer ecosystem projects – nothing more.
+This repository in no way obligates you, requires, or suggests that Eigen Foundation or any other project listed above must or should get a share of any ecosystem allocations. This is just a public place for the sharing of information about EigenLayer ecosystem projects – nothing more.
 
 In the spirit of infinite sum games, we believe the EigenLayer ecosystem can become greater than the sum of its parts by facilitating greater alignment and communication between projects and their contributors.
 
