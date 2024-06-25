@@ -8,7 +8,7 @@ This repo will be an evolving, transparent place for teams to exchange informati
 
 | Project Name      | Description                                           | Contact Info                  | Wallet Address    |
 |-------------------|-------------------------------------------------------|-------------------------------|-------------------|
-| Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      |                   |
+| Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
 
 To update this table, please follow these steps:
 1. Navigate to the `README.md` file in the repository.
@@ -16,7 +16,7 @@ To update this table, please follow these steps:
 3. Update the table with your project's information.
 4. Commit your changes with a descriptive commit message.
 
-For token allocations, teams might consider using Splits (https://splits.org/) or a similar token allocation solution to lawfully enable ecosystem participation for individual contributors. EigenFoundation does not own or control Splits or have any financial interest in the project or its intellectual property.
+For token allocations, teams might consider using Splits (https://splits.org/) or a similar token allocation solution to lawfully enable ecosystem participation for individual contributors. Eigen Foundation does not own or control Splits or have any financial interest in the project or its intellectual property.
 
 Due to concerns about conflicts of interest or the appearance of such conflicts of interest, Eigen Foundation’s policy prohibits any of its employees or dedicated service providers from individually claiming airdrops.
 
