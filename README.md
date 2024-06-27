@@ -2,12 +2,12 @@
 
 We’re thrilled to announce the launch of the EigenLayer Ecosystem Network – an open repository meant to be used by teams within the EigenLayer ecosystem to support and create alignment with other teams within the EigenLayer ecosystem.
 
-## Purpose of the Repository
+## Purpose of the EigenLayer Ecosystem Network Repository
 
 This repository is intended as a transparent and evolving platform where projects within the EigenLayer ecosystem can list their addresses for others to use for airdrops. We frequently receive requests for airdrops and introductions between teams. This repository is our effort to allow that process to scale organically and permissionlessly across the ecosystem.
 
 
-## How to Use the Repository
+## How to Use the EigenLayer Ecosystem Network Repository
 
 Projects are encouraged to update the repository with their information, including project details, contact information, and wallet addresses. We hope this provides an opportunity for projects to transparently associate and align with hundreds of other projects building within the EigenLayer ecosystem, including existing or prospective actively validated services (AVSs), Operators, EigenDA rollup partners, and liquid restaking projects.
 
