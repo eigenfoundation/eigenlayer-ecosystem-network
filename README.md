@@ -2,7 +2,14 @@
 
 We’re thrilled to announce the launch of the EigenLayer Ecosystem Network – an open repository meant to be used by teams within the EigenLayer ecosystem to support and create alignment with other teams within the EigenLayer ecosystem.
 
-This repo will be an evolving, transparent place for teams to exchange information with all other contributing teams in the EigenLayer Ecosystem Network. Over time, we expect projects to update the repo and include information and addresses for others to use. We hope that this repo provides an opportunity for projects to transparently associate and align with hundreds of other projects building within the EigenLayer ecosystem, including existing or prospective actively validated services (AVSs), Operators, EigenDA rollup partners, and liquid staking projects.
+## Purpose of the Repository
+
+This repository is intended as a transparent and evolving platform where projects within the EigenLayer ecosystem can list their addresses for others to use for airdrops. We frequently receive requests for airdrops and introductions between teams. This repository is our effort to allow that process to scale organically and permissionlessly across the ecosystem.
+
+
+## How to Use the Repository
+
+Projects are encouraged to update the repository with their information, including project details, contact information, and wallet addresses. We hope this provides an opportunity for projects to transparently associate and align with hundreds of other projects building within the EigenLayer ecosystem, including existing or prospective actively validated services (AVSs), Operators, EigenDA rollup partners, and liquid restaking projects.
 
 ## Projects
 
@@ -10,7 +17,8 @@ This repo will be an evolving, transparent place for teams to exchange informati
 |-------------------|-------------------------------------------------------|-------------------------------|-------------------|
 | Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
 
-To update this table, please follow these steps:
+**To update this table, please follow these steps:**
+
 1. Navigate to the `README.md` file in the repository.
 2. Click on the pencil icon to edit the file.
 3. Update the table with your project's information.
@@ -26,4 +34,4 @@ In the spirit of infinite sum games, we believe the EigenLayer ecosystem can bec
 
 Happy collaborating and building!
 
-If you have any questions about the EigenLayer Ecosystem Network repository, please contact us at team@eigenfoundation.org.
+If you have questions about the EigenLayer Ecosystem Network repository, please get in touch with us at team@eigenfoundation.org.
