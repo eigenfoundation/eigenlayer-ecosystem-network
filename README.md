@@ -16,6 +16,8 @@ Projects are encouraged to update the repository with their information, includi
 | Project Name      | Description                                           | Contact Info                  | Wallet Address    |
 |-------------------|-------------------------------------------------------|-------------------------------|-------------------|
 | Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
+| AltLayer          | Building restaked rollups within EigenLayer ecosystem | support@altresear.ch          | 0x03978Ef315341Ed6501c9A571e36695905a0B931  |
+
 
 **To update this table, please follow these steps:**
 
