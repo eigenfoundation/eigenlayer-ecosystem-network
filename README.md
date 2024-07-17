@@ -16,6 +16,8 @@ Projects are encouraged to update the repository with their information, includi
 | Project Name      | Description                                           | Contact Info                  | Wallet Address    |
 |-------------------|-------------------------------------------------------|-------------------------------|-------------------|
 | Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
+| Lagrange Labs | Hyper-parallel ZK coprocessing. Verifiably compute over blockchain data at a big data scale and unlock new data-intensive and interoperable applications. | hello@lagrange.dev      | 0x76FB595C525e2CA60E23fce5BB53382C9BdE05a9                  |
+
 
 **To update this table, please follow these steps:**
 
