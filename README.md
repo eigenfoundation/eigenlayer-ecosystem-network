@@ -16,6 +16,7 @@ Projects are encouraged to update the repository with their information, includi
 | Project Name      | Description                                           | Contact Info                  | Wallet Address    |
 |-------------------|-------------------------------------------------------|-------------------------------|-------------------|
 | Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
+| DODOchain  | DODOchain is an Omni-Trading Layer3, powered by the integration of Arbitrum, EigenLayer, and AltLayer.   | contact@dodochain.com      | 0xf76767aA3841Ad888C5F306Ba0e11ADCd5F69dCd                  |
 
 **To update this table, please follow these steps:**
 
