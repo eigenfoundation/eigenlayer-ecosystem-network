@@ -16,6 +16,7 @@ Projects are encouraged to update the repository with their information, includi
 | Project Name      | Description                                           | Contact Info                  | Wallet Address    |
 |-------------------|-------------------------------------------------------|-------------------------------|-------------------|
 | Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
+| Omni Network      | Creating the abstraction layer for developers to build across all Ethereum rollups. | info@omni.network                 | 0xFf89C654846B2E4BC572cEABE77056daf7b299a3                  |
 
 **To update this table, please follow these steps:**
 
