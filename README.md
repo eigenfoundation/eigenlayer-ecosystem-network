@@ -20,9 +20,10 @@ Projects are encouraged to update the repository with their information, includi
 **To update this table, please follow these steps:**
 
 1. Navigate to the `README.md` file in the repository.
-2. Click on the pencil icon to edit the file.
+2. Click on the pencil icon to edit this file.
 3. Update the table with your project's information.
-4. Commit your changes with a descriptive commit message.
+4. Commit your changes with a descriptive commit message to a fork of this repository.
+5. Open a pull request to merge your fork into the primary repository.
 
 For token allocations, teams might consider using Splits (https://splits.org/) or a similar token allocation solution to lawfully enable ecosystem participation for individual contributors. Eigen Foundation does not own or control Splits or have any financial interest in the project or its intellectual property.
 
