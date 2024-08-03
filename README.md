@@ -16,6 +16,7 @@ Projects are encouraged to update the repository with their information, includi
 | Project Name      | Description                                           | Contact Info                  | Wallet Address    |
 |-------------------|-------------------------------------------------------|-------------------------------|-------------------|
 | Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
+| Blockless  | Building the first modular compute network, allowing users to verifiably power applications just by using them. | team@blockless.network     | 0x3E06D2D9894f4932179cA548b7A114f243712F4C                |
 
 **To update this table, please follow these steps:**
 
