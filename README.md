@@ -16,6 +16,7 @@ Projects are encouraged to update the repository with their information, includi
 | Project Name      | Description                                           | Contact Info                  | Wallet Address    |
 |-------------------|-------------------------------------------------------|-------------------------------|-------------------|
 | Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
+| eOracle | The modular and programmable data layer, secured by Ethereum, enabling permissionless innovation on-chain | contact@eoracle.io | 0x36acf996E230db3dCdBD47a124dB931091EBC47f
 
 **To update this table, please follow these steps:**
 
