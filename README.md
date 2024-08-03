@@ -13,9 +13,10 @@ Projects are encouraged to update the repository with their information, includi
 
 ## Projects
 
-| Project Name      | Description                                           | Contact Info                  | Wallet Address    |
-|-------------------|-------------------------------------------------------|-------------------------------|-------------------|
-| Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
+| Project Name     | Description                                                                             | Contact Info             | Wallet Address    |
+|------------------|-----------------------------------------------------------------------------------------|--------------------------|-------------------|
+| Eigen Foundation | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
+| Heimdall Labs    | Building the policy layer for the next internet.                                        | jesse@aethos.network     | 0xfb6828285C7A6A2Ed6B48f44fF6396aD4CDcb199                  |
 
 **To update this table, please follow these steps:**
 
