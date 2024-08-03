@@ -16,6 +16,7 @@ Projects are encouraged to update the repository with their information, includi
 | Project Name      | Description                                           | Contact Info                  | Wallet Address    |
 |-------------------|-------------------------------------------------------|-------------------------------|-------------------|
 | Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
+| Aligned Layer | A decentralized verification layer for zero-knowledge proofs using Eigen Layer | info@yetanothercompany.xyz | 0x0148d83C5bD4eb77Deca15dFE327869fA8Cf7Ee6 |
 
 **To update this table, please follow these steps:**
 
