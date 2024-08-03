@@ -16,6 +16,7 @@ Projects are encouraged to update the repository with their information, includi
 | Project Name      | Description                                           | Contact Info                  | Wallet Address    |
 |-------------------|-------------------------------------------------------|-------------------------------|-------------------|
 | Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
+| Ethos  | Ethos is powering sovereign chains with the pooled security of restaked ETH | contact@ethosstake.com      | 0x8E7cdd02B00C7676be3FAfd1Af407e7d8F5a83DF                  |
 
 **To update this table, please follow these steps:**
 
