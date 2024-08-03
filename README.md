@@ -16,6 +16,7 @@ Projects are encouraged to update the repository with their information, includi
 | Project Name      | Description                                           | Contact Info                  | Wallet Address    |
 |-------------------|-------------------------------------------------------|-------------------------------|-------------------|
 | Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
+| Silent Shard      | Silent Shard AVS is one of the fastest MPC-based TSS in production for usable, secure, and truly decentralized support for digital wallets, exchanges and institutional asset enterprises. It supports weighted threshold signing and identifiable abort, to empower slashing | info@silencelaboratories.com | 0x7e06dbbe4fc83a1bccd20af3079e08f57c19cf34 |
 
 **To update this table, please follow these steps:**
 
