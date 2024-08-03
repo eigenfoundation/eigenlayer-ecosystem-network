@@ -16,6 +16,7 @@ Projects are encouraged to update the repository with their information, includi
 | Project Name      | Description                                           | Contact Info                  | Wallet Address    |
 |-------------------|-------------------------------------------------------|-------------------------------|-------------------|
 | Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
+| K3 Labs  | Easily design and deploy business workflows and applications that utilize the power of decentralized compute.| ivan.reif@k3-labs.com      | 0x3560e81bf6C40823605De20b994CCCB830F3Cc6b                  |
 
 **To update this table, please follow these steps:**
 
