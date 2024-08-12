@@ -16,6 +16,7 @@ Projects are encouraged to update the repository with their information, includi
 | Project Name      | Description                                           | Contact Info                  | Wallet Address    |
 |-------------------|-------------------------------------------------------|-------------------------------|-------------------|
 | Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
+| ARPA Network  | ARPA Network serves as the infrastructure of verifiable random number, secure wallet, decentralized custody etc, secured by ARPA Native Staking and Eigenlayer | contact@arpanetwork.io      | 0x36271Dd7C64ebFeE10183e7A003cD0b76CD285D5                  |
 
 **To update this table, please follow these steps:**
 
