@@ -16,6 +16,7 @@ Projects are encouraged to update the repository with their information, includi
 | Project Name      | Description                                           | Contact Info                  | Wallet Address    |
 |-------------------|-------------------------------------------------------|-------------------------------|-------------------|
 | Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
+| Ava Protocol  | Supporting the Ava Protocol and community, building private autonomous super-transactions for Ethereum | chris@avaprotocol.org      | 0x69ecE265815B1F0357cc08c6b1C47F3785c3CB46                  |
 
 **To update this table, please follow these steps:**
 
