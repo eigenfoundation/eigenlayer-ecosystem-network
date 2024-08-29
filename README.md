@@ -16,6 +16,7 @@ Projects are encouraged to update the repository with their information, includi
 | Project Name      | Description                                           | Contact Info                  | Wallet Address    |
 |-------------------|-------------------------------------------------------|-------------------------------|-------------------|
 | Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
+| Nethermind  | Providing integral support to the Eigenlayer ecosystem with our expertise in infrastructure, software development, research, security, and data analytics. | hello@nethermind.io      | 0x237DeE529A47750bEcdFa8A59a1D766e3e7B5F91                  |
 
 **To update this table, please follow these steps:**
 
