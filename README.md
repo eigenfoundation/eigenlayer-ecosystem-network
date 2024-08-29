@@ -16,6 +16,7 @@ Projects are encouraged to update the repository with their information, includi
 | Project Name      | Description                                           | Contact Info                  | Wallet Address    |
 |-------------------|-------------------------------------------------------|-------------------------------|-------------------|
 | Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
+| Anzen Protocol  | Optimizing Operator & Restaker Payments for AVSs | support@hydrogenlabs.xyz      | 0xf6366e830FDbdb3C3Df979Ad03486661675fFaDc                  |
 
 **To update this table, please follow these steps:**
 
