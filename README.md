@@ -16,6 +16,7 @@ Projects are encouraged to update the repository with their information, includi
 | Project Name      | Description                                           | Contact Info                  | Wallet Address    |
 |-------------------|-------------------------------------------------------|-------------------------------|-------------------|
 | Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
+| Puffer Foundation  | Puffer Finance is pioneering permissionless infrastructure on Ethereum through innovative decentralized solutions. Puffer LRT, UniFi AVS, and UniFi Rollup are Puffer products. | admin@puffer.fi      | 0x65a644db63aAabCC836955cd70b501a2e534713d               |
 
 **To update this table, please follow these steps:**
 
