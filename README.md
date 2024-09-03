@@ -6,16 +6,16 @@ We’re thrilled to announce the launch of the EigenLayer Ecosystem Network – 
 
 This repository is intended as a transparent and evolving platform where projects within the EigenLayer ecosystem can list their addresses for others to use for airdrops. We frequently receive requests for airdrops and introductions between teams. This repository is our effort to allow that process to scale organically and permissionlessly across the ecosystem.
 
-
 ## How to Use the EigenLayer Ecosystem Network Repository
 
 Projects are encouraged to update the repository with their information, including project details, contact information, and wallet addresses. We hope this provides an opportunity for projects to transparently associate and align with hundreds of other projects building within the EigenLayer ecosystem, including existing or prospective actively validated services (AVSs), Operators, EigenDA rollup partners, and liquid restaking projects.
 
 ## Projects
 
-| Project Name      | Description                                           | Contact Info                  | Wallet Address    |
-|-------------------|-------------------------------------------------------|-------------------------------|-------------------|
-| Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
+| Project Name     | Description                                                                                                                           | Contact Info             | Wallet Address                                 |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ---------------------------------------------- |
+| Eigen Foundation | Supporting the Eigen Layer protocol and community, building the shared security commons                                               | team@eigenfoundation.org | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1     |
+| Gelato           | Rollup-as-a-Service Platform. Launch enterprise-grade L2 & L3 chains integrated with industry-standard Web3 services in just 1-click! | team@gelato.digital      | eth:0x7f26D2D36350b0f2E932484e17002eC5d06Bb9B7 |
 
 **To update this table, please follow these steps:**
 
