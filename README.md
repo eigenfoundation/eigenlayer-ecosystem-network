@@ -16,6 +16,7 @@ Projects are encouraged to update the repository with their information, includi
 | Project Name      | Description                                           | Contact Info                  | Wallet Address    |
 |-------------------|-------------------------------------------------------|-------------------------------|-------------------|
 | Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
+| Ava Protocol  | Supporting the Ava Protocol and community, building private autonomous super-transactions for Ethereum | chris@avaprotocol.org      | 0x69ecE265815B1F0357cc08c6b1C47F3785c3CB46                  |
 | K3 Labs  | Easily design and deploy business workflows and applications that utilize the power of decentralized compute.| ivan.reif@k3-labs.com      | 0x3560e81bf6C40823605De20b994CCCB830F3Cc6b                  |
 | Ethos  | Ethos is powering sovereign chains with the pooled security of restaked ETH | contact@ethosstake.com      | 0x8E7cdd02B00C7676be3FAfd1Af407e7d8F5a83DF                  |
 | Nuffle Labs  | The Nuffle Fast Finality Layer (NFFL) provides a fast settlement layer leveraging EigenLayer that allows L2s to quickly access information from other networks | share@nuff.tech     | 0x19e4ABeb085bA468141de87d15AF9762c594A009                  |
