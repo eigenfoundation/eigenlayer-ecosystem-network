@@ -17,6 +17,9 @@ Projects are encouraged to update the repository with their information, includi
 |-------------------|-------------------------------------------------------|-------------------------------|-------------------|
 | Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
 | Nuffle Labs  | The Nuffle Fast Finality Layer (NFFL) provides a fast settlement layer leveraging EigenLayer that allows L2s to quickly access information from other networks | share@nuff.tech     | 0x19e4ABeb085bA468141de87d15AF9762c594A009                  |
+| OpenLayer  | The first modular authentic data layer, powered by everyone | contact@openlayer.tech      | 0xE1c0B8CA379cfBa6617Ce73C7d958C42420bA499                  |
+| DODOchain  | DODOchain is an Omni-Trading Layer3, powered by the integration of Arbitrum, EigenLayer, and AltLayer.   | contact@dodochain.com      | 0xf76767aA3841Ad888C5F306Ba0e11ADCd5F69dCd                  |
+| GM Network        | GM Network is the first consumer AIoT (AI + IoT) network, powered by AltLayer & EigenLayer |  gm@gmlabs.me              |    0x867E0DC2f0041a3BCce7164436592Ea7aE61a4eb  |
 
 **To update this table, please follow these steps:**
 
