@@ -28,6 +28,7 @@ Projects are encouraged to update the repository with their information, includi
 | DODOchain  | DODOchain is an Omni-Trading Layer3, powered by the integration of Arbitrum, EigenLayer, and AltLayer.   | contact@dodochain.com      | 0xf76767aA3841Ad888C5F306Ba0e11ADCd5F69dCd                  |
 | GM Network        | GM Network is the first consumer AIoT (AI + IoT) network, powered by AltLayer & EigenLayer |  gm@gmlabs.me              |    0x867E0DC2f0041a3BCce7164436592Ea7aE61a4eb  |                 |
 | ARPA Network  | ARPA Network serves as the infrastructure of verifiable random number, secure wallet, decentralized custody etc, secured by ARPA Native Staking and Eigenlayer | contact@arpanetwork.io      | 0x36271Dd7C64ebFeE10183e7A003cD0b76CD285D5                  |
+| Fairblock Network  | Unlocking DeFi, GameFi, and Social applications through onchain confidentiality and MPC networks for EVM and IBC-connected ecosystems| hello@fairblock.network      | 0x8147CF7F76D018f9f84b7dBBcb73DEA10705DB16                  |
 
 **To update this table, please follow these steps:**
 
