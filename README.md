@@ -28,6 +28,7 @@ Projects are encouraged to update the repository with their information, includi
 | DODOchain  | DODOchain is an Omni-Trading Layer3, powered by the integration of Arbitrum, EigenLayer, and AltLayer.   | contact@dodochain.com      | 0xf76767aA3841Ad888C5F306Ba0e11ADCd5F69dCd                  |
 | GM Network        | GM Network is the first consumer AIoT (AI + IoT) network, powered by AltLayer & EigenLayer |  gm@gmlabs.me              |    0x867E0DC2f0041a3BCce7164436592Ea7aE61a4eb  |                 |
 | ARPA Network  | ARPA Network serves as the infrastructure of verifiable random number, secure wallet, decentralized custody etc, secured by ARPA Native Staking and Eigenlayer | contact@arpanetwork.io      | 0x36271Dd7C64ebFeE10183e7A003cD0b76CD285D5                  |
+| Treasure DAO      | Treasure is the decentralized game console. Powered by $MAGIC, Treasure is the base layer for the best cryptonative games and projects. | info@treasure.lol | 0xEc834bD1F492a8Bd5aa71023550C44D4fB14632A                  |
 
 **To update this table, please follow these steps:**
 
