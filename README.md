@@ -18,6 +18,7 @@ Projects are encouraged to update the repository with their information, includi
 | Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1   
 | Cyber | Cyber is the L2 blockchain built for social | ricky@cyber.co | cyberlab.eth
 | Skate             | The universal execution layer empowers apps to run on 1000s of chains with a unified state | build@skatechain.org |      |
+| t1 protocol       | Real-time proving to unify Ethereum                                                        | hello@t1protocol.com |      |
 | Opacity Network   | Opacity privately verifies web2 data from anywhere with zkTLS to unlock new business models and help founders bypass the cold start problem. | hello@opacitylabs.com | 0x1ce0313A364f244e2939b1900c488AE34f1f6E0B
 | Silent Shard      | Silent Shard AVS is one of the fastest MPC-based TSS in production for usable, secure, and truly decentralized support for digital wallets, exchanges and institutional asset enterprises. It supports weighted threshold signing and identifiable abort, to empower slashing | info@silencelaboratories.com | 0x7e06dbbe4fc83a1bccd20af3079e08f57c19cf34 |
 | Ava Protocol  | Supporting the Ava Protocol and community, building private autonomous super-transactions for Ethereum | chris@avaprotocol.org      | 0x69ecE265815B1F0357cc08c6b1C47F3785c3CB46                  |
