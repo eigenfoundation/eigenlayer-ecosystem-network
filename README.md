@@ -16,6 +16,7 @@ Projects are encouraged to update the repository with their information, includi
 | Project Name      | Description                                           | Contact Info                  | Wallet Address    |
 |-------------------|-------------------------------------------------------|-------------------------------|-------------------|
 | Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1   
+| AltLayer          | Building restaked rollups within EigenLayer ecosystem | support@altresear.ch          | 0x03978Ef315341Ed6501c9A571e36695905a0B931  |
 | Cyber | Cyber is the L2 blockchain built for social | ricky@cyber.co | cyberlab.eth
 | Skate             | The universal execution layer empowers apps to run on 1000s of chains with a unified state | build@skatechain.org   | 0xCc4ad525B543A7A3bB58aF376025a9c0ddDa0AB6 |
 | Opacity Network   | Opacity privately verifies web2 data from anywhere with zkTLS to unlock new business models and help founders bypass the cold start problem. | hello@opacitylabs.com | 0x1ce0313A364f244e2939b1900c488AE34f1f6E0B
